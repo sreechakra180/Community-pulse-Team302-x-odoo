@@ -166,7 +166,7 @@ This project is licensed under the MIT License.
 🙋 Contact
 For questions or support, contact:
 
-Email: [your-email@example.com]
+Email: 23f3003224@ds.study.iitm.ac.in
 
-GitHub: [github.com/your-username]
+GitHub: https://github.com/sreechakra180/Community-pulse-Team302-x-odoo
 
