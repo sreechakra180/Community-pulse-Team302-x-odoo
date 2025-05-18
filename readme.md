@@ -170,3 +170,4 @@ Email: 23f3003224@ds.study.iitm.ac.in
 
 GitHub: https://github.com/sreechakra180/Community-pulse-Team302-x-odoo
 
+video : https://drive.google.com/file/d/1JoSYy1UENNxT5e11J7LZhFBkqX4s44e6/view?usp=drive_link
