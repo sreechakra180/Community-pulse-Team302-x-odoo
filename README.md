@@ -1,1 +1,0 @@
-# Community-pulse-Team302-x-odoo
