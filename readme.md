@@ -135,7 +135,7 @@ Event time changes
 Fully responsive design. Can be extended into a dedicated mobile app using React Native or Flutter.
 
 📈 Future Improvements
-Leave space to describe any future goals or enhancements.
+
 
  Push Notifications
 
